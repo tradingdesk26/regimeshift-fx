@@ -39,6 +39,10 @@ activity, end-to-end CCTP V2 cycles validated on-chain.
   USDC/EURC pool                  ETH/USDC LP ⇄ ETH-PERP long
 ```
 
+**Live dashboard:** [https://regimeshift.xyz](https://regimeshift.xyz) —
+current state, VRP signal, capital allocation, last 30 trades.
+Renderer refreshes every 5 minutes.
+
 ---
 
 ## Why this is interesting for Agora
