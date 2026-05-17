@@ -92,7 +92,7 @@ Runs on a GCE VM since 2026-05-15. Operates a 4-state machine:
    │      │                ▼                              │
    │  PARKED_IN_LP ◀───────┘                              │
    │      ▲                                               │
-   │      │ regime recovers                              │
+   │      │ regime recovers                               │
    │      │                                               │
    │  DEFENSIVE_CASH ◀── regime crash trigger             │
    └──────────────────────────────────────────────────────┘
