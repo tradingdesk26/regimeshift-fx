@@ -2,7 +2,7 @@
 
 **Regime-aware liquidity for non-trivially-volatile pairs on Base + Hyperliquid.**
 
-Submission to **Agora Agents Hackathon** (Canteen × Circle, May 11–25 2026).
+Originally submitted to the **Agora Agents Hackathon** (Canteen × Circle, May 11–25 2026); now live in production on Base mainnet.
 
 ---
 
@@ -212,7 +212,7 @@ Both pipelines have been validated end-to-end on mainnet.
 - Session-timing strategy deployed today
 - Defensive triggers (crash exit) active
 
-**Remaining for Agora (deadline 2026-05-25):**
+**Ongoing / post-submission:**
 - Pitch video (3–5 min)
 - First-week live performance report
 - Scale live capital
